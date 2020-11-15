@@ -13,5 +13,5 @@ nltk>=3.4.5
 tokenizer>=2.4.0
 Keras>=2.4.3
 tensorflow>=2.3.1
-h5py>=3.1.0
+h5py<3.0.0
 
