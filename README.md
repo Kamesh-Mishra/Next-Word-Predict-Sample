@@ -1,6 +1,6 @@
 # Next-Word-Predict-Sample
 
-Deployment link: https://sample-next-word-prediction.herokuapp.com/Predict
+Deployment link: https://sample-next-word-prediction.herokuapp.com/
 
 Model training refered from https://medium.com/analytics-vidhya/build-a-simple-predictive-keyboard-using-python-and-keras-b78d3c88cffb
 
